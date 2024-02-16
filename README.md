@@ -1,3 +1,5 @@
+#THIS IS A TEST REPO - no claims are allowed
+
 # VulnCases
 
 I like to write vulnerable cases, and learn the basics from different levels, from source, static, to dynamic analysis. Sometimes they are fun to exploit, too.
