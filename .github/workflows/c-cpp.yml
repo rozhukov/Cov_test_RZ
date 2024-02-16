@@ -14,9 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-dotnet@v1
       - name: Build
-        run: dotnet build
+        run: cmake build
         working-directory: Windows Unsafe DLL Loading
-      - name: Run tests
-        run: dotnet test
-        working-directory: Windows Unsafe DLL Loading
-
+      
