@@ -2,9 +2,9 @@ name: C/C++ CI
 
 on:
   push:
-    branches: [ "/Windows Unsafe DLL Loading" ]
+    branches: [ "Windows Unsafe DLL Loading" ]
   pull_request:
-    branches: [ "/Windows Unsafe DLL Loading" ]
+    branches: [ "Windows Unsafe DLL Loading" ]
 
 jobs:
   build:
