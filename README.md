@@ -14,4 +14,4 @@ If you like my repository, you may also like:
 # License
 
 Please see [LICENSE](https://github.com/wchen-r7/VulnCases/blob/master/LICENSE)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rozhukov/Cov_test_RZ/badge)](https://scorecard.dev/viewer/?uri=rozhukov/Cov_test_RZ)
